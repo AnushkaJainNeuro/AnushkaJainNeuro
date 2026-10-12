@@ -12,7 +12,7 @@ systems that bridge brain and machine.
 - `neurocore` — reusable EEG processing utilities built from scratch
 
 ## learning this summer
-Python · NumPy · MNE-Python · signal processing · neural decoding · PyTorch
+NumPy · MNE-Python · signal processing · neural decoding · PyTorch
 
 
 <!--
